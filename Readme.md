@@ -17,6 +17,6 @@
     - [Questão 1011](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1011.py)
     - [Questão 1012](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1012.py)
 
-|¯  /¯\ |¯| |¯| ¯|¯ |¯|   |¯\ |¯   |¯| |¯| |¯| |¯  |¯| /¯\ |\/| /¯\ 
-| | |¯| |¯\ |_|  |  |_|   |_/ |¯   |¯  |¯\ |_| | | |¯\ |¯| |  | |¯| 
- ¯                             ¯                ¯                   
+|¯  /¯\ |¯| |¯| ¯|¯ |¯|   |¯\ |¯   |¯| |¯| |¯| |¯  |¯| /¯\ |\/| /¯\  
+| | |¯| |¯\ |_|  |  |_|   |_/ |¯   |¯  |¯\ |_| | | |¯\ |¯| |  | |¯|  
+ ¯                             ¯                ¯                                      
