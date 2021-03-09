@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/qngJv3q.png" align="right" width="300">
+
 # Nesse repositorio tem as questões do URI com suas determinadas linguagens !
 - Java:
     - [Questão 1001](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Java/p1001.java)
