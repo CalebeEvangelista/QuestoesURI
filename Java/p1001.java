@@ -1,4 +1,4 @@
-package JavaURi;
+package Java;
 import java.util.Scanner;
 public class p1001 {
 	

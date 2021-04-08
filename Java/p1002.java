@@ -1,4 +1,4 @@
-package JavaURi;
+package Java;
 import java.util.Scanner;
 import java.util.Locale;
 public class p1002 {
