@@ -17,4 +17,5 @@
     - [Questão 1009](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1009.py)
     - [Questão 1010](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1010.py)
     - [Questão 1011](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1011.py)
-    - [Questão 1012](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1012.py)                      
+    - [Questão 1012](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1012.py)     
+    - [Questão 1013](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1013.py)
