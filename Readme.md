@@ -21,3 +21,4 @@
     - [Questão 1013](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1013.py)
     - [Questão 1014](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1014.py)
     - [Questão 1015](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1015.py)
+    - [Questão 1016](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1016.py)
