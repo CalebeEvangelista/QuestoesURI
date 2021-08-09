@@ -6,6 +6,8 @@
     - [Questão 1002](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Java/p1002.java)
     - [Questão 1003](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Java/p1003.java)
     - [Questão 1004](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Java/p1004.java)
+    - [Questão 1005](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Java/p1005.java)
+
 - Python:
     - [Questão 1001](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1001.py)
     - [Questão 1002](https://github.com/CalebeEvangelista/QuestoesURI/blob/main/Python/1002.py)
