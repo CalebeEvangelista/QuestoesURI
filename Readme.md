@@ -2,9 +2,9 @@
 
 ## Nesse repositorio tem as questões do URI com suas determinadas linguagens !
 
-##### Todo dia eu atualizo aqui com os codigos das questões, algumas ja tem a resolução gravada no canal, caso não tenha meu [Discord](https://discord.gg/EkJFKUB) ta disponivel para quem precisar! 
+##### Todo dia eu atualizo aqui com os codigos das questões, algumas ja tem a resolução gravada no [canal](https://www.youtube.com/channel/UCkXx8-TUjR_OUIzcOqdVDuw), caso não tenha meu [Discord](https://discord.gg/EkJFKUB) ta disponivel para quem precisar! 
 - Java:
-    - Pra não ficar uma lista imensa aqui, basta [clicar aqui](https://github.com/CalebeEvangelista/QuestoesURI/tree/main/Java) que ja é jogado pra lista.
+    - [Clicando aqui](https://github.com/CalebeEvangelista/QuestoesURI/tree/main/Java) você vai acessar a lista de questões em Java!
 
 - Python:
-    - [Clicando aqui](https://github.com/CalebeEvangelista/QuestoesURI/tree/main/Python) vai deiretão tambem !
+    - [Clicando aqui](https://github.com/CalebeEvangelista/QuestoesURI/tree/main/Python) você vai acessar a lista de questões em Python!
